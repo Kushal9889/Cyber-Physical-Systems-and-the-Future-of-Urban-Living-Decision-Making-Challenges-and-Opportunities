@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite the book chapter rather than this repository.
+title: Cyber-Physical Systems and the Future of Urban Living
+abstract: >-
+  A book chapter on cyber-physical systems in urban environments, covering the
+  decision-making challenges that arise when physical infrastructure and
+  computation are coupled, and the opportunities that coupling creates.
+authors:
+  - family-names: Gaddamwar
+    given-names: Kushal
+    orcid: https://orcid.org/0009-0009-9318-1616
+type: software
+repository-code: https://github.com/Kushal9889/Cyber-Physical-Systems-and-the-Future-of-Urban-Living-Decision-Making-Challenges-and-Opportunities
+license: CC-BY-4.0
+preferred-citation:
+  type: generic
+  title: Cyber-Physical Systems and the Future of Urban Living
+  year: 2024
+  publisher:
+    name: IGI Global
+  doi: 10.4018/979-8-3693-5728-6.ch005
+  authors:
+    - family-names: Gaddamwar
+      given-names: Kushal
+      orcid: https://orcid.org/0009-0009-9318-1616
